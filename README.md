@@ -11,7 +11,6 @@ And the Founder of [Koala](https://meetkoala.netlify.app/).
 - 🎓 I have a bachelor degree "Digital Project Manager" with a major in web and mobile Development at [EEMI](https://www.eemi.com/)
 - 💬 Ask me about Gender Diversity, Esport, Tech, Video Games
 - 📫 How to reach me: <a href="https://linktr.ee/noelie.rx">on this link</a>
-- ⚡ Fun fact: I love pancakes and nuggets
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noelierx" alt="noelierx" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=noelierx&show_icons=true" alt="noelierx" /> </p>
