@@ -13,4 +13,4 @@ And the Founder of [Koala](https://meetkoala.netlify.app/).
 - 📫 How to reach me: <a href="https://linktr.ee/noelie.rx">on this link</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noelierx" alt="noelierx" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=noelierx&show_icons=true" alt="noelierx" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=noelierx&show_icons=true&count_private=true" alt="noelierx" /> </p>
