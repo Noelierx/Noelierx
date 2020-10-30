@@ -7,7 +7,7 @@ And the Founder of [Koala](https://meetkoala.netlify.app/).
 
 - 🔭 I’m currently working at [OpenClassrooms](https://openclassrooms.com/en)
 - 💭 You can help us by working on [Game'Her](https://github.com/Noelierx/GameHer)
-- 🌱 I’m currently finishing a master degree "Head of digital strategy and innovation" at [Ecole Multimédia](https://www.ecole-multimedia.com/)
+- 🎓 I have a master degree "Head of digital strategy and innovation" at [Ecole Multimédia](https://www.ecole-multimedia.com/)
 - 🎓 I have a bachelor degree "Digital Project Manager" with a major in web and mobile Development at [EEMI](https://www.eemi.com/)
 - 💬 Ask me about Gender Diversity, Esport, Tech, Video Games
 - 📫 How to reach me: <a href="https://linktr.ee/noelie.rx">on this link</a>
