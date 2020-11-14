@@ -3,7 +3,7 @@
 
 I'm currently a Front-End Engineer at [OpenClassrooms](https://openclassrooms.com/en).  
 And also President, Editor-in-Chief and Developper at [Game'Her](https://gameher.fr/).  
-And the Founder of [Koala](https://meetkoala.netlify.app/).
+And the Founder of [Koala](https://meetkoala.netlify.app/en).
 
 - 🔭 I’m currently working at [OpenClassrooms](https://openclassrooms.com/en)
 - 💭 You can help us by working on [Game'Her](https://github.com/Noelierx/GameHer)
