@@ -12,4 +12,4 @@ And the Founder of [Koala](https://meetkoala.netlify.app/en).
 - 💬 Ask me about Gender Diversity, Esport, Tech, Video Games
 - 📫 How to reach me: <a href="https://linktr.ee/noelie.rx">on this link</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noelierx" alt="noelierx" /> <a href="https://twitter.com/noelie_roux"><img src="https://img.shields.io/twitter/follow/noelie_roux?label=Twitter&style=social" alt="Twitter"></a> </p>
+<p align="left"><a href="https://twitter.com/noelie_roux"><img src="https://img.shields.io/twitter/follow/noelie_roux?label=Twitter&style=social" alt="Twitter"></a> </p>
