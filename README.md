@@ -5,7 +5,7 @@ I'm currently a Front-End Engineer at [OpenClassrooms](https://openclassrooms.co
 And also President, Editor-in-Chief and Developper at [Game'Her](https://gameher.fr/).  
 And the Founder of [Koala](https://meetkoala.netlify.app/en).
 
-- 🔭 I’m currently working at [OpenClassrooms](https://openclassrooms.com/en)
+- 🔭 I’m currently working at [OpenClassrooms](https://openclassrooms.com/en) and at [Game'Her](https://gameher.fr/)
 - 💭 You can help us by working on [Game'Her](https://github.com/Noelierx/GameHer)
 - 🎓 I have a master degree "Head of digital strategy and innovation" at [Ecole Multimédia](https://www.ecole-multimedia.com/)
 - 🎓 I have a bachelor degree "Digital Project Management" with a major in web and mobile Development at [EEMI](https://www.eemi.com/)
