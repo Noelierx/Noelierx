@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif">
 
 I'm currently a Front-End Engineer at [OpenClassrooms](https://openclassrooms.com/en).  
-And also President, Editor-in-Chief and Developper at [Game'Her](https://gameher.fr/).  
+And also Volunteer and Developper at [Game'Her](https://gameher.fr/).  
 And the Founder of [Koala](https://meetkoala.netlify.app/en).
 
 - 🔭 I’m currently working at [OpenClassrooms](https://openclassrooms.com/en) and at [Game'Her](https://gameher.fr/)
