@@ -1,11 +1,12 @@
 # Hello world 👋! I'm Noëlie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif">
 
-I'm currently a Front-End Engineer at [OpenClassrooms](https://openclassrooms.com/en).  
+I'm currently a Front-End Engineer at [OpenClassrooms](https://openclassrooms.com/en).
+Teaching web accessibility at [EEMI](https://www.eemi.com/)
 And also Volunteer and Developper at [Game'Her](https://gameher.fr/).  
 And the Founder of [Koala](https://meetkoala.netlify.app/en).
 
-- 🔭 I’m currently working at [OpenClassrooms](https://openclassrooms.com/en) and at [Game'Her](https://gameher.fr/)
+- 🔭 I’m currently working at [OpenClassrooms](https://openclassrooms.com/en) and at [EEMI](https://www.eemi.com/)
 - 💭 You can help us by working on [Game'Her](https://github.com/Noelierx/GameHer)
 - 🎓 I have a master degree " Digital Strategy and Innovation Manager" at [Ecole Multimédia](https://www.ecole-multimedia.com/)
 - 🎓 I have a bachelor degree "Digital Project Management" with a major in web and mobile Development at [EEMI](https://www.eemi.com/)
