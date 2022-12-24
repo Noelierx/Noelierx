@@ -1,8 +1,8 @@
 # Hello world 👋! I'm Noëlie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif">
 
-I'm currently a Front-End Engineer at [OpenClassrooms](https://openclassrooms.com/en).
-Teaching web accessibility at [EEMI](https://www.eemi.com/)
+I'm currently a Front-End Engineer at [OpenClassrooms](https://openclassrooms.com/en).  
+Teaching web accessibility at [EEMI](https://www.eemi.com/).  
 And also Volunteer and Developper at [Game'Her](https://gameher.fr/).  
 And the Founder of [Koala](https://meetkoala.netlify.app/en).
 
