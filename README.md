@@ -1,16 +1,16 @@
 # Hello world 👋! I'm Noëlie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif">
 
-I'm currently a Front-End Engineer at [OpenClassrooms](https://openclassrooms.com/en).  
-Teaching web accessibility at [EEMI](https://www.eemi.com/).  
-And also Volunteer and Developper at [Game'Her](https://gameher.fr/).  
-And the Founder of [Koala](https://meetkoala.netlify.app/en).
+👩‍💻 I'm a former frontend engineer at [OpenClassrooms](https://openclassrooms.com/en) turned accessibility consultant and teacher at [EEMI](https://www.eemi.com/), and a [Game'Her](https://gameher.fr/) contributor. I'm passionate about creating inclusive digital experiences and educating students on the importance of web accessibility.
+I'm also the founder of [Koala](https://meetkoala.netlify.app/en).
 
-- 🔭 I’m currently working at [OpenClassrooms](https://openclassrooms.com/en) and at [EEMI](https://www.eemi.com/)
-- 💭 You can help us by working on [Game'Her](https://github.com/Noelierx/GameHer)
-- 🎓 I have a master degree " Digital Strategy and Innovation Manager" at [Ecole Multimédia](https://www.ecole-multimedia.com/)
-- 🎓 I have a bachelor degree "Digital Project Management" with a major in web and mobile Development at [EEMI](https://www.eemi.com/)
-- 💬 Ask me about Web Accessibility, Gender Diversity, Esport, Tech, Video Games
-- 📫 How to reach me: <a href="https://linktr.ee/noelie.rx">on this link</a>
+📚 Currently, I teach web accessibility to students and help companies create inclusive digital experiences. My goal is to make the web accessible for everyone, and to advocate for accessibility and equity in tech.
 
-<p align="left"><a href="https://twitter.com/noelie_roux"><img src="https://img.shields.io/twitter/follow/noelie_roux?label=Twitter&style=social" alt="Twitter"></a> </p>
+## 🌟 Skills
+Web Accessibility    
+Frontend development  
+Teaching & Training  
+User Experience (UX) Design
+
+## 🤝 Let's connect!
+If you're interested in web accessibility, creating inclusive digital experiences, just want to connect, or even to talk about Gender Diversity, Esport, Tech or Video Games feel free to check out my [website](https://bento.me/noelierx). I'm always happy to chat with like-minded individuals!
