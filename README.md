@@ -1,5 +1,4 @@
-# Hello world 👋! I'm Noëlie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif">
+# Hello world 👋! I'm Noëlie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="" width="50">
 
 👩‍💻 I'm a former frontend engineer at [OpenClassrooms](https://openclassrooms.com/en) turned accessibility consultant and teacher at [EEMI](https://www.eemi.com/), and a [Game'Her](https://gameher.fr/) contributor. I'm passionate about creating inclusive digital experiences and educating students on the importance of web accessibility.
 I'm also the founder of [Koala](https://meetkoala.netlify.app/en).
