@@ -24,5 +24,3 @@ User Experience (UX) Design
 
 ## 🤝 Let's connect!
 If you're interested in web accessibility, creating inclusive digital experiences, or just want to chat about gaming or tech, feel free to connect with me on my [website](https://bento.me/noelierx) or on [Twitter](https://twitter.com/noelie_roux)!
-
-![](https://hit.yhype.me/github/profile?user_id=23256782)
