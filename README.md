@@ -17,8 +17,8 @@ As a teacher, I enjoy sharing my knowledge and experience with others. I teach f
 As a contributor for Game'Her, I work to promote diversity in the gaming industry. I help organize events and workshops that encourage women to get involved in gaming and esports. I also work on the website of the association.
 
 ## 🌟 Skills
-Web Accessibility (RGAA, WCAG)    
-Frontend development (HTML, CSS, JavaScript, React, ...)  
+Web Accessibility (RGAA, WCAG, Section 508, EN 301 549)    
+Frontend development (HTML, CSS, JavaScript, React.js, ...)  
 Teaching & Training  
 User Experience (UX) Design
 
