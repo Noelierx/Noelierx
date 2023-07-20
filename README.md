@@ -5,6 +5,8 @@ I'm also the founder of [Koala](https://meetkoala.netlify.app/en).
 
 📚 Currently, I work as an accessibility consultant, helping companies create inclusive digital experiences. My goal is to make the web accessible for everyone and advocate for accessibility and equity in the tech industry.
 
+📄Alongside this, I'm currently trying to build [WhiskerWatch](https://github.com/Noelierx/WhiskerWatch), a web application designed to provide comprehensive care and medical information for your beloved cat.
+
 ## My work
 
 ### 🔍 Accessibility
