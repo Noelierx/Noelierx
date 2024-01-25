@@ -1,6 +1,6 @@
 # Hello world 👋! I'm Noëlie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="" width="50">
 
-👩‍💻 I'm a former frontend engineer at [OpenClassrooms](https://openclassrooms.com/en) and teacher at [EEMI](https://www.eemi.com/) turned accessibility consultant at [Ipedis](https://www.ipedis.com/)! I'm also a [Game'Her](https://gameher.fr/) contributor. My passion lies in creating inclusive digital experiences and raising awareness about the importance of web accessibility.
+👩‍💻 I'm a former frontend engineer at [OpenClassrooms](https://openclassrooms.com/en) and teacher at [EEMI](https://www.eemi.com/) turned accessibility consultant! I'm also a [Game'Her](https://gameher.fr/) contributor. My passion lies in creating inclusive digital experiences and raising awareness about the importance of web accessibility.
 I'm also the founder of [Koala](https://meetkoala.netlify.app/en).
 
 📚 Currently, I work as an accessibility consultant, helping companies create inclusive digital experiences. My goal is to make the web accessible for everyone and advocate for accessibility and equity in the tech industry.
