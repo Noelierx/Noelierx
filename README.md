@@ -3,8 +3,6 @@
 👩‍💻 I'm currently Engineering Manager at [Jaji](https://jaji.fr/)! I'm also a [Game'Her](https://gameher.fr/) contributor. I worked at [OpenClassrooms](https://openclassrooms.com/en) as frontend engineer and teacher at [EEMI](https://www.eemi.com/). I also worked as an accessibility consultant. My passion lies in creating inclusive digital experiences and raising awareness about the importance of web accessibility.
 I'm also the founder of [Koala](https://meetkoala.netlify.app/en).
 
-📄Alongside this, I'm currently trying to build [WhiskerWatch](https://github.com/Noelierx/WhiskerWatch), a web application designed to provide comprehensive care and medical information for your beloved cat.
-
 ## 🌟 Skills
 Web Accessibility (RGAA, WCAG, Section 508, EN 301 549, Games Accessibility Guidelines)    
 Frontend development (HTML, CSS, JavaScript, React.js, ...)  
