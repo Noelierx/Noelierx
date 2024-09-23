@@ -1,6 +1,6 @@
 # Hello world 👋! I'm Noëlie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="" width="50">
 
-👩‍💻 I'm currently Engineering Manager at [Jaji](https://jaji.fr/)! I'm also a [Game'Her](https://gameher.fr/) contributor. I worked at [OpenClassrooms](https://openclassrooms.com/en) as frontend engineer and teacher at [EEMI](https://www.eemi.com/). I also worked as an accessibility consultant. My passion lies in creating inclusive digital experiences and raising awareness about the importance of web accessibility.
+👩‍💻 I'm currently Engineering Manager at [Jaji](https://jaji.fr/) and teacher at [EEMI](https://www.eemi.com/)! I'm also a [Game'Her](https://gameher.fr/) contributor. I worked at [OpenClassrooms](https://openclassrooms.com/en) as frontend engineer. I also worked as an accessibility consultant. My passion lies in creating inclusive digital experiences and raising awareness about the importance of web accessibility.
 I'm also the founder of [Koala](https://meetkoala.netlify.app/en).
 
 ## 🌟 Skills
