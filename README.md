@@ -3,6 +3,8 @@
 👩‍💻 I'm currently Engineering Manager at [Jaji](https://jaji.fr/) and teacher at [EEMI](https://www.eemi.com/)! I'm also a [Game'Her](https://gameher.fr/) contributor. I worked at [OpenClassrooms](https://openclassrooms.com/en) as frontend engineer. I also worked as an accessibility consultant. My passion lies in creating inclusive digital experiences and raising awareness about the importance of web accessibility.
 I'm also the founder of [Koala](https://meetkoala.netlify.app/en).
 
+I'm currently building [BookGraph](https://bookgraph.lovable.app/), a webapp that help you discover hidden patterns and connections in your reading journey through an interactive book relationship visualizer.
+
 ## 🌟 Skills
 Web Accessibility (RGAA, WCAG, Section 508, EN 301 549, Games Accessibility Guidelines)    
 Frontend development (HTML, CSS, JavaScript, React.js, ...)  
